@@ -1,11 +1,11 @@
 # João Victor Dechine
 
-##Olá, bem vindo ao perfil do GitHub.
+##Hello, welcome to the GitHub profile.
 
-Sou Desenvolvedor FullStack e o meu trabalho, descanso e passatempo é programar. <br/>
-Estou sempre a disposição para te ajudar no que for necessário.
+I'm a FullStack Developer and my job, rest and hobby is programming. <br/>
+I am always available to help you with whatever is necessary.
 
-<br/> - :computer: Atualmente estou trabalhando no desenvolvimento Front e BackEnd utilizando ASP.NET Core.
-<br/> - :satisfied: Estou aprendendo React.
+<br/> - :computer: I'm working on Front and Back End development using ASP.NET Core.
+<br/> - :satisfied: I'm learning React.
 <br/> - 💬 Ask me about anything, and if I can help you, I'll.
 <br/> - :mailbox: How to reach me? [![Gmail Badge](https://img.shields.io/badge/-jvadechine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvadechine@gmail.com)](mailto:jvadechine@gmail.com)
