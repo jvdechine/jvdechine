@@ -2,7 +2,7 @@
 
 ##Olá, bem vindo ao perfil do GitHub.
 
-Sou Desenvolvedor FullStack e o meu trabalho, descanso e passatempo é programação.
+Sou Desenvolvedor FullStack e o meu trabalho, descanso e passatempo é programar. <br/>
 Estou sempre a disposição para te ajudar no que for necessário.
 
 <br/> - :computer: Atualmente estou trabalhando no desenvolvimento Front e BackEnd utilizando ASP.NET Core.
