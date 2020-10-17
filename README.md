@@ -2,7 +2,7 @@
 
 ##Hello, welcome to the GitHub profile.
 
-I'm a FullStack Developer and my job, rest and hobby is programming. <br/>
+I'm a FullStack Developer and my job and hobby is programming. <br/>
 I am always available to help you with whatever is necessary.
 
 <br/> - :computer: I'm working on Front and Back End development.
